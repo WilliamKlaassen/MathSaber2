@@ -1,0 +1,17 @@
+# Logs
+logs/
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA settings
+.idea/
+
+# macOS system files
+.DS_Store
