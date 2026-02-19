@@ -1,0 +1,1 @@
+{"name": "Tafels Trainer", "version": "1.0.0", "description": "A game to practice multiplication tables.", "main": "index.tsx", "scripts": {"start": "vite", "build": "vite build"}, "dependencies": {}, "devDependencies": {"vite": "latest", "typescript": "latest"}}
